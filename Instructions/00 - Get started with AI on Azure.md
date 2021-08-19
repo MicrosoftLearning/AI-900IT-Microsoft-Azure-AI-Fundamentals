@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Attività iniziali con l'intelligenza artificiale su Azure'
+    title: 'Attività iniziali con l’intelligenza artificiale su Azure'
 ---
 
 ## Istruzioni
