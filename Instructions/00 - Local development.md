@@ -13,7 +13,7 @@ Se stai lavorando sul tuo computer locale, puoi seguire questi passaggi per conf
 > pip install ipython jupyter matplotlib pillow richiede azure-cognitiveservices-vision-computervision azure-cognitiveservices-vision-customvision azure-cognitiveservices-vision-face azure-cognitiveservices-language-textanalytics azure.cognitiveservices.speech azure_ai_formrecognizer 
 
 ### Visual Studio Code 
-1. Se non disponi già di Visual Studio Code, [scaricalo qui]](https://code.visualstudio.com/Download). Dopo l'installazione, avvia Visual Studio Code e nella scheda Estensioni (CTRL+MAIUSC+X), cerca e installa l'estensione **Python** da Microsoft.
+1. Se non Visual Studio Code non è già disponibile, [scaricarlo qui](https://code.visualstudio.com/Download). Dopo l'installazione, avviare Visual Studio Code e nella scheda Estensioni (CTRL+MAIUSC+X), cercare e installare l'estensione **Python** da Microsoft.
 
 2. In Visual Studio Code, apri un nuovo terminale, digita **git clone https://github.com/MicrosoftLearning/AI-900IT-Microsoft-Azure-AI-Fundamentals** e seleziona *invio*. 
 
